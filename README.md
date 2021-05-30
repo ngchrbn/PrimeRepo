@@ -23,4 +23,4 @@ A program to find if a given number is a prime number or not.
 - .git: contains all information that is necessary for the project and
   all information relating commits, remote repository address, log that stores commit history, etc.
 - .gitignore: file to be ignored by git (not to be staged or pushed to remote repository)
-- .README.md: description of the project
+- README.md: description of the project
